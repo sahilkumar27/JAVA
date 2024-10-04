@@ -1,4 +1,4 @@
-package Java.src.com.sahil;
+package Java.src.com.javaPreReq;
 
 public class Basics {
     public static void main(String[] args) {

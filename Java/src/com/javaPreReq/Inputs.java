@@ -1,4 +1,4 @@
-package com.sahil;
+package Java.src.com.javaPreReq;
 
 import java.util.Scanner;
 

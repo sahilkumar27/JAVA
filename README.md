@@ -1,4 +1,4 @@
-# Java Practice
+# Java Programs for Beginners
 
 ## Description
 This repository contains various Java programs demonstrating different concepts of Object-Oriented Programming (OOP) and other basic Java functionalities, stay tuned for more updates.

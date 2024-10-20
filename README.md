@@ -23,7 +23,7 @@ This repository contains various Java programs demonstrating different concepts 
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/sahilkumar27/Java-Practice.git
+    git clone https://github.com/sahilkumar27/JAVA.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -58,4 +58,4 @@ This repository contains various Java programs demonstrating different concepts 
 4. Create a pull request on GitHub.
 
 ## License
-This project is  under the `SAHIL` Last updated at `©4th Oct 2024`.
+This project is  under the `SAHIL` Last updated at `©20th Oct 2024`.

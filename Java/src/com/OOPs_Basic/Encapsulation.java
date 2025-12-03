@@ -32,7 +32,6 @@ public class Encapsulation {
         System.out.println("Name: " + obj.getName());
         System.out.println("Age: " + obj.getAge());
     }
-
 }
 
 

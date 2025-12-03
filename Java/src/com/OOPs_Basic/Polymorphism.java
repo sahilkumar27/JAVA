@@ -3,24 +3,24 @@ package Java.src.com.OOPs_Basic;
 
 // Method Overloading
 class MathOperation {
-    int add (int a, int b){
+    int add(int a, int b) {
         return a + b;
     }
 
-    double add (double a, double b){
+    double add(double a, double b) {
         return a + b;
     }
 }
 
-class Animal{
-    void sound(){
+class Animal {
+    void sound() {
         System.out.println("Bhai Ache se padh le");
     }
 }
 
-class Cat extends Animal{
+class Cat extends Animal {
     @Override
-    void sound(){
+    void sound() {
         System.out.println("Haan Bhai Override ka mtlb samj aaya");
     }
 }

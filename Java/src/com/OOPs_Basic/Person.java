@@ -25,29 +25,9 @@ public class Person {
     }
 }
 
-
-//
-
-
-
-
-
 /*
 ! Notes:
 * 1.
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 * */

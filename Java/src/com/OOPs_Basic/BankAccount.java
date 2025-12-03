@@ -26,9 +26,13 @@ public class BankAccount {
         System.out.println("Account Number: " + accountNumber);
     }
 
+
     public static void main(String[] args) {
         BankAccount account = new BankAccount("Sahil Kumar", 1000.0, "Savings", "1234567890");
         account.displayAccountDetails();
+
+
+        System.out.println("Here you can see the example for access modifer that we have used in the class ==========================================" );
 
         // Accessing fields directly
         System.out.println("Accessing Public Field: " + account.accountHolderName);

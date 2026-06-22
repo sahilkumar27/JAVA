@@ -41,24 +41,5 @@ This repository contains various Java programs demonstrating different concepts 
     java Java.src.com.OOPs_Basic.Abstraction
     java Java.src.com.OOPs_Basic.DiamondProblems
     ```
-
-## Contributing
-1. Make sure `sahil` branch is the master branch:
-    ```bash
-    git checkout sahil
-    ```
-   2. Ignore this `test` branch if you are contributing for the first time, because this branch is not stable, if you want updated code please refer to the `sahil` branch.
-       ```bash
-         git checkout test
-       ```
-3. If you want to contribute, create a new branch :
-    ```bash
-    git checkout -b <your-branch-name>
-    ```
-4. Create a pull request on GitHub.
-
-## License
-This project is  under the `SAHIL` Last updated at `©4th Oct 2024`.
-=======
-# JAVA
-
+## Contributing   
+Contributions are welcome! Please feel free to submit a Pull Request.

@@ -1,4 +1,4 @@
-package Java.src.com.SDET;
+package com.SDET;
 
 public class Q7_FindDuplicateInArray {
     // Hoq do you find duplicate elements in an array
@@ -8,7 +8,7 @@ public class Q7_FindDuplicateInArray {
         for (int i = 0; i < arr.length - 1; i++) {
             for (int j = i + 1; j < arr.length; j++) {
                 if (arr[i] == arr[j]) {
-                    System.out.println(arr[j]);
+                    System.out.print(arr[j] + " ");
                 }
             }
         }

@@ -1,4 +1,4 @@
-package Java.src.com.OOPs_Basic;
+package com.OOPs_Basic;
 
 public class Person {
     //Fields to represent the attributes of a person

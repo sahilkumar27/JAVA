@@ -1,4 +1,4 @@
-package Java.src.com.OOPs_Basic;
+package com.OOPs_Basic;
 
 abstract class Shape {
     abstract void draw();

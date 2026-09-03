@@ -1,4 +1,4 @@
-package Java.src.com.OOPs_Basic;
+package com.OOPs_Basic;
 
 public class Encapsulation {
     private String name;
